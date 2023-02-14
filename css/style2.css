@@ -1,4 +1,7 @@
-main, footer, #pattern {
-    padding-left: 10%;
-    padding-right: 10%;
-}
+main, 
+.piero,
+.title {
+    width: 80%;
+    margin: 0 auto;
+    
+}                                                                              
